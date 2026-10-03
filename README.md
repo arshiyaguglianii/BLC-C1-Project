@@ -24,5 +24,3 @@ Python • Pandas • NumPy • Scikit-learn • Excel • Power BI • Tableau 
 - Category Priority: High / Medium / Low
 - Business classification by country
 
-### Project Status
-Core analysis, models, and Excel outputs completed. Power BI and Tableau dashboards are being finalized.
