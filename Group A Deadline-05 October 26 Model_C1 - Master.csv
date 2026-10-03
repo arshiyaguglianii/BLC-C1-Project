@@ -1,0 +1,298 @@
+S.No,Country,City,Company,LINKEDIN LINK,Website,Tech Need / Problem,EMAIL,CONTACT,Google Map,Category,Ratings,Reviews
+1,India,Lucknow,Ladies First Beauty Salon,N/A,N/A,N/A,N/A,7499858640,https://maps.app.goo.gl/zQKMiLRnw9RziQSh6,Beauty Salon ,4.5,399
+2,India,Lucknow,Priya Beauty Salon,N/A,N/A,N/A,N/A,8881200100,https://maps.app.goo.gl/jm5JRZPhwYTUJqSR9,Beauty Salon ,4.8,55
+3,India,Lucknow,Looks,N/A,N/A,N/A,N/A,9919990738,https://maps.app.goo.gl/3B8ZhGzqW2v8Pb5R7,Beauty Salon ,4.8,329
+4,India,Lucknow,"Glow N Glam",N/A,N/A,N/A,N/A,9919736852,https://maps.app.goo.gl/aQTVy4qYCbXqdmMK6,Beauty Salon ,4.6,221
+5,USA,New York,NY-2 Food Market,N/A,N/A,N/A,N/A,12125822075,https://maps.app.goo.gl/QNWKnhprAJ5gZAmUA,Grocery Store,4.3,55
+6,USA,New York,Noho Food Market,N/A,N/A,N/A,N/A,16464764047,https://maps.app.goo.gl/34fGKMS5i3FvqevD6,Grocery Store,4.2,57
+7,USA,New York,Parkview Convenience,N/A,N/A,N/A,N/A,16466923022,https://maps.app.goo.gl/BGEzEjtYC9VTef3w5,Grocery Store,5,3
+8,USA,New York,NYC convenience (maiden lane),N/A,N/A,N/A,N/A,15186753636,https://maps.app.goo.gl/szZhHoHRyeno9ibX7,Grocery Store,4.5,12
+9,USA,New York,Sonny's Grocery store,N/A,N/A,N/A,N/A,12125417747,https://maps.app.goo.gl/4H16AYmruc587pTS9,Grocery Store,4.5,15
+10,USA,New York,Chelsea convenience & more,N/A,N/A,N/A,N/A,19293127422,https://maps.app.goo.gl/Gjkkb4igdtAQd3JH9,Grocery Store,3.5,8
+11,USA,New York,59 Bayard Market,N/A,N/A,N/A,N/A,12126088866,https://maps.app.goo.gl/pMxgUUTUUSEtVPFB8,Grocery Store,4.6,17
+12,USA,New York,Ez Minimart,N/A,N/A,N/A,N/A,12124757962,https://maps.app.goo.gl/Lxyosg9qh5Uzt96W8,Grocery Store,4,14
+13,USA,New York,2nd Ave. Grocery & Smoke Shop,N/A,N/A,N/A,N/A,12124470131,https://maps.app.goo.gl/TR15mrcLyrQAqcLN6,Grocery Store,5,6
+14,USA,New York,Boongs Grab and Go,N/A,N/A,N/A,N/A,16469830367,https://maps.app.goo.gl/Be8qfRo1rLCJyD2X8,Grocery Store,4.1,25
+15,USA,New York,Soho Garden,N/A,N/A,N/A,N/A,12129415973,https://maps.app.goo.gl/CC1a4SD9SUgxzgDW7,Grocery Store,4.2,63
+16,USA,New York,Mitsuki Japanese Market,N/A,N/A,N/A,N/A,16468613801,https://maps.app.goo.gl/dZDq1dyg4zxVBXdr7,Grocery Store,4.9,438
+17,USA,New York,Peas & Pickles,N/A,N/A,N/A,N/A,17184888336,https://maps.app.goo.gl/X4HqRVDxn88dG3LF7,Grocery Store,3.7,432
+18,USA,New York,Ha Ha Fresh Corporation,N/A,N/A,N/A,N/A,12129247249,https://maps.app.goo.gl/RUoX6ZfrfkwUrXUR8,General Store,3.8,16
+19,USA,New York,Lime Tree Market,N/A,N/A,N/A,N/A,19176756480,https://maps.app.goo.gl/mRqMhvYnQCuBanHu8,Grocery Store,3.8,50
+20,India,Lucknow,Lucknow Medical Store,N/A,N/A,N/A,N/A,9795874121,https://maps.app.goo.gl/gF8nNigdUrRL2XuJ6,Pharmacy,4.4,26
+21,India,Lucknow,Krishna Medicals,N/A,N/A,N/A,N/A,9118147955,https://maps.app.goo.gl/LYPPy5VnmPr4H6zw6,Pharmacy,4.8,66
+22,India,Lucknow,Kishori Lal Prabhu Dayal Medical Store,N/A,N/A,N/A,N/A,9451314111,https://maps.app.goo.gl/FyP4BF3uzXvpEooY7,Pharmacy,4.2,31
+23,India,Lucknow,SACHDEVA MEDICAL STORES,N/A,N/A,N/A,N/A,9415425996,https://maps.app.goo.gl/AFuuhnb64qJoRAt88,Pharmacy,4.4,171
+24,India,Lucknow,Anuj Medicals,N/A,N/A,N/A,N/A,7398951960,https://maps.app.goo.gl/RKG9c9JhXiFJGTtx7,Pharmacy,4.9,85
+25,India,Lucknow,Nirmala medical store,N/A,N/A,N/A,N/A,9839108070,https://maps.app.goo.gl/frsVWbfV96yfbUWF7,Pharmacy,4.5,71
+26,India,Lucknow,Anshu Medical Store,N/A,N/A,N/A,N/A,9389812289,https://maps.app.goo.gl/bHUXrRLsucc9XXCn7,Pharmacy,3.8,54
+27,India,Lucknow,MEDICINE HOUSE,N/A,N/A,N/A,N/A,7408214444,https://maps.app.goo.gl/UZUchN6fm1TKEuWY6,Pharmacy,4.1,54
+28,India,Lucknow,Universal Medical Store,N/A,N/A,N/A,N/A,8419075786,https://maps.app.goo.gl/HFf13V4A8E7P1mR58,Pharmacy,4.5,24
+29,India,Lucknow,Ashtang Medicine Mall,N/A,N/A,N/A,N/A,5224068374,https://maps.app.goo.gl/KvKR3ZquYniyomrb6,Pharmacy,4.6,33
+30,India,Lucknow,Mini Medical,N/A,N/A,N/A,N/A,9984232499,https://maps.app.goo.gl/Cncz5ccckRYJwSZy7,Pharmacy,5,4
+31,India,Lucknow,Ashi Medical Store,N/A,N/A,N/A,N/A,9415086495,https://maps.app.goo.gl/MDYUxT4snnxenws18,Pharmacy,4.8,21
+32,India,Lucknow,Gani medical store,N/A,N/A,N/A,N/A,6386395701,https://maps.app.goo.gl/rmYs6yEBiaoBL58q9,Pharmacy,5,23
+33,India,Lucknow,DR. PUSHPLATA PHARMACY,N/A,N/A,N/A,N/A,9151778888,https://maps.app.goo.gl/ZyPzrULx1MLcovEJ8,Pharmacy,3.9,83
+34,India,Lucknow,Nirala Medical Store,N/A,N/A,N/A,N/A,9918858222,https://maps.app.goo.gl/usXKu7wZoNXa4RJU8,Pharmacy,3.8,116
+35,India,Lucknow,Popular Medicines,N/A,N/A,N/A,N/A,5224043245,https://maps.app.goo.gl/QkSgQsQW6eALbCGq5,Pharmacy,4.4,9
+36,India,Lucknow,Medi99 | Online Pharmacy | Medical store | Lucknow,N/A,N/A,N/A,N/A,9161633499,https://maps.app.goo.gl/shnWCrSFoBxKWcqE9,Pharmacy,4.5,11
+37,India,Lucknow,Rishabh Medical Store,N/A,N/A,N/A,N/A,7270075920,https://maps.app.goo.gl/jQPpds4zfikgE1c5A,Pharmacy,4.9,79
+38,India,Lucknow,Abha Medical Store,N/A,N/A,N/A,N/A,5222638266,https://maps.app.goo.gl/PUjWLajarpvgnGqP9,Pharmacy,4.5,15
+39,India,Lucknow,Mohan Medical Hall,N/A,N/A,N/A,N/A,9936171731,https://maps.app.goo.gl/1uLJP4erCsEjCbMd6,Pharmacy,4.8,91
+40,USA,New York,M & R Medical Supplies,N/A,N/A,N/A,N/A,17187140822,https://maps.app.goo.gl/g9RMzmWTWEuE1PSN9,Pharmacy,5,6
+41,USA,New York,Rite Way Drugs,N/A,N/A,N/A,N/A,12127776864,https://maps.app.goo.gl/aTvTHNt9bA5fmBAe9,Pharmacy,5,50
+42,USA,New York,N & L Medical Supply Inc,N/A,N/A,N/A,N/A,17182329077,https://maps.app.goo.gl/HezBKeBy68i2pE6T6,Pharmacy,3,12
+43,USA,New York,Medicine Plus Pharmacy,N/A,N/A,N/A,N/A,12127058717,https://maps.app.goo.gl/CsAEDguBHZGFiHQP6,Pharmacy,4.1,78
+44,USA,New York,Slope Drugs & Surgical Supply,N/A,N/A,N/A,N/A,17187888899,https://maps.app.goo.gl/FsvtpMXYpY3Jrcmt9,Pharmacy,2.9,52
+45,USA,New York,Block Drug Store,N/A,N/A,N/A,N/A,12124731587,https://maps.app.goo.gl/45hhNy6bHoTqzG929,Pharmacy,4.7,26
+46,USA,New York,The Somerset Garage,N/A,N/A,N/A,N/A,12126500911,https://maps.app.goo.gl/jVkBQSgrtuf3gqJRA,Garage,3.7,28
+47,USA,New York,Model Garage Inc,N/A,N/A,N/A,N/A,17188719200,https://maps.app.goo.gl/RXjdq8D4BvSQjY1r6,Garage,4.7,3
+48,USA,New York,The 1345 Garage,N/A,N/A,N/A,N/A,12122458708,https://maps.app.goo.gl/Ys6fuFMtijcevnAC7,Garage,2.3,37
+49,USA,New York,45 Garage,N/A,N/A,N/A,N/A,12122650774,https://maps.app.goo.gl/wa3uAPfebF1hxhZS8,Garage,2.6,93
+50,USA,New York,Meyers Parking: MP Alyn Garage,N/A,N/A,N/A,N/A,16468239289,https://maps.app.goo.gl/K447TNTzTokUA7rc8,Garage,3.9,14
+51,USA,New York,Icon Parking Garage,N/A,N/A,N/A,N/A,18777275464,https://maps.app.goo.gl/e5mc5NEyzjbqz31RA,Garage,3,97
+52,USA,New York,AZ Parking,N/A,N/A,N/A,N/A,12125484370,https://maps.app.goo.gl/quEJ2tfDWBUKViut6,Garage,4.5,162
+53,USA,New York,AstorTerrace Garage,N/A,N/A,N/A,N/A,12127220066,https://maps.app.goo.gl/9uCm4jC7Q2qHkrmq9,Garage,4.7,10
+54,USA,New York,Barrow Street Garage LLC,N/A,N/A,N/A,N/A,12122429791,https://maps.app.goo.gl/197YRXHqCadzhMuHA,Garage,3.2,38
+55,India,Lucknow,Ashirwad Medical Store,N/A,N/A,N/A,N/A,7347867373,https://maps.app.goo.gl/i62fbrymDr2ywgAs9,Pharmacy,3.3,24
+56,India,Lucknow,Om Medical Store,N/A,N/A,N/A,N/A,7081285540,https://maps.app.goo.gl/KCtAogUL9paaXwb1A,Pharmacy,3.8,53
+57,India,Lucknow,Medicine Mart,N/A,N/A,N/A,N/A,9936778598,https://maps.app.goo.gl/S5SvDJVRwUD4jY1JA,Pharmacy,4.6,29
+58,India,Lucknow,Shukla Medical Store,N/A,N/A,N/A,N/A,9839628426,https://maps.app.goo.gl/9QQz9yYaqorifrxK6,Pharmacy,4.1,7
+59,India,Lucknow,New Life Pharmacy,N/A,N/A,N/A,N/A,8934029404,https://maps.app.goo.gl/YE4roBCuiiF8dqG68,Pharmacy,4,6
+60,India,Lucknow,Jyotirmay Dental Health Care Centre,N/A,N/A,N/A,N/A,8299296398,https://maps.app.goo.gl/Gfifr5u1wPCaJgJd6,Pharmacy,4.2,32
+61,India,Lucknow,Dr. Arpit Gupta,N/A,N/A,N/A,N/A,6392701509,https://maps.app.goo.gl/9i9PJaGa1Pcj6XmM7,Pharmacy,4.9,181
+62,India,Lucknow,Jio Medical,N/A,N/A,N/A,N/A,9984417630,https://maps.app.goo.gl/56uSn3DNXL8Vatxx7,Pharmacy,5,2
+63,India,Lucknow,BOUNCE BACK PHYSIOTHERAPY,N/A,N/A,N/A,N/A,9554997653,https://maps.app.goo.gl/qERXRsREvXWFaEvw9,Pharmacy,4.9,63
+64,India,Lucknow,Vatsalya Clinic Dr. S.K Rai,N/A,N/A,N/A,N/A,9198595255,https://maps.app.goo.gl/qC8LoaP2qSVdkPuBA,Pharmacy,4.2,179
+65,India,Lucknow,CENTRAL AGENCIES,N/A,N/A,N/A,N/A,9838179666,https://maps.app.goo.gl/59cM2ovhQFrRqeYu7,Pharmacy,5,6
+66,India,Lucknow,BLUENECK HOSPITEC LLP,N/A,N/A,N/A,N/A,9307055555,https://maps.app.goo.gl/VwAu5bggYmEte2p17,Pharmacy,3.7,6
+67,India,Lucknow,Maa Vaishno Medical Store,N/A,N/A,N/A,N/A,5224236566,https://maps.app.goo.gl/hMZSxEShQfdTNh7V7,Pharmacy,4.6,11
+68,India,Lucknow,A.S.Medical Store,N/A,N/A,N/A,N/A,8707605386,https://maps.app.goo.gl/Mbyhtkk8skYYiN1q8,Pharmacy,3.6,5
+69,India,Lucknow,Tejas Pharmacy & Surgical Store,N/A,N/A,N/A,N/A,9519727481,https://maps.app.goo.gl/2SgwR23P63Bd9Trz8,Pharmacy,5,137
+70,USA,New York,Select Garages - 9 Park Ave. Garage,N/A,N/A,N/A,N/A,19174091992,https://maps.app.goo.gl/dGP4GdMrgUUd24TP7,Garage,1.2,25
+71,USA,New York,79-80 Garage Corporation,N/A,N/A,N/A,N/A,19177451148,https://maps.app.goo.gl/BsqUNhm3QBcC9PLn7,Garage,3.3,19
+72,USA,New York,MTP Park,N/A,N/A,N/A,N/A,12123682579,https://maps.app.goo.gl/2LTdFkXrpxMxFPERA,Garage,2.8,5
+73,USA,New York,NYC Parking at CBS Building@ 31 W 52nd St,N/A,N/A,N/A,N/A,18008366666,https://maps.app.goo.gl/zYkMJDsUC4iqpAjv7,Garage,3.6,40
+74,USA,New York,Manhattan Garage Door Repair Inc,N/A,N/A,N/A,N/A,13323319247,https://maps.app.goo.gl/sLfAn588HbQWJpV57,Garage,5,13
+75,India,Lucknow,Fine Medical Store,N/A,N/A,N/A,N/A,9919524137,https://maps.app.goo.gl/RKNF15HCVty8jory8,Pharmacy,3.8,28
+76,India,Lucknow,Gomti Medical Store,N/A,N/A,N/A,N/A,9415104223,https://maps.app.goo.gl/A8yfhyUFYDRn88Sm6,Pharmacy,4.4,12
+77,India,Lucknow,BALAJI MEDICALS,N/A,N/A,N/A,N/A,8081758681,https://maps.app.goo.gl/DdihNnVqnqBeahwW6,Pharmacy,4.3,14
+78,India,Lucknow,Vinayak Medicare Hospital,N/A,N/A,N/A,N/A,9721050077,https://maps.app.goo.gl/JHnpWDgSJXyPiaxB7,Pharmacy,4.3,285
+79,India,Lucknow,Agarwal General Store,N/A,N/A,N/A,N/A,9451197467,https://maps.app.goo.gl/MQ7P8YbDAftJptha9,General Store,3.8,311
+80,India,Lucknow,Prabhu Dayal Provision Store,N/A,N/A,N/A,N/A,9044666666,https://maps.app.goo.gl/VZLeYSocaZvi34rA7,General Store,4.1,500
+81,India,Lucknow,Ganpati General Store,N/A,N/A,N/A,N/A,6394064977,https://maps.app.goo.gl/LaETxPhBRTNMm8gG7,General Store,4.2,109
+82,India,Lucknow,Vijay General Store,N/A,N/A,N/A,N/A,8318681494,https://maps.app.goo.gl/h3Pq3yVjwdgtUjFJ6,General Store,4.6,10
+83,India,Lucknow,ARYA MART,N/A,N/A,N/A,N/A,9807255215,https://maps.app.goo.gl/wbA9gryizMWnQtjb6,General Store,4.1,490
+84,India,Lucknow,Ajay Super Store,N/A,N/A,N/A,N/A,9415919651,https://maps.app.goo.gl/56uLnH9PcqFhu3Ww9,General Store,4.2,383
+85,India,Lucknow,SAHU GENERAL STORE,N/A,N/A,N/A,N/A,9918391660,https://maps.app.goo.gl/wptQJDBKo7tC7L4R8,General Store,4.2,93
+86,India,Lucknow,S.L Departmental Store,N/A,N/A,N/A,N/A,5222304184,https://maps.app.goo.gl/2LDU72bgKZLvmGTj8,General Store,3.9,401
+87,India,Lucknow,Zain General Store,N/A,N/A,N/A,N/A,9889339393,https://maps.app.goo.gl/YneA4FF1jhaUt55B8,General Store,4.8,5
+88,India,Lucknow,Sanjay Store,N/A,N/A,N/A,N/A,9919379466,https://maps.app.goo.gl/vQJ7eVKJ24R2eKJV6,General Store,3.8,212
+89,India,Lucknow,Shyam General Store,N/A,N/A,N/A,N/A,9839703487,https://maps.app.goo.gl/G5kAV5PPHoegSQdB7,General Store,4.6,15
+90,USA,New York,4-Garage,N/A,N/A,N/A,N/A,19184427243,https://maps.app.goo.gl/WzwzEXQY2ZoRH7pY8,Garage,5,10
+91,USA,New York,SFG Garage,N/A,N/A,N/A,N/A,12122498960,https://maps.app.goo.gl/xzTF4X6YrxPkoC5t8,Garage,1.9,8
+92,USA,New York,86. Parking Garage Corp.,N/A,N/A,N/A,N/A,17186398129,https://maps.app.goo.gl/QYAcqpRcYNUMChMr6,Garage,3.8,28
+93,USA,New York,RL Mercer Street LLC,N/A,N/A,N/A,N/A,12122193413,https://maps.app.goo.gl/2JzxWoUAnkF171yz6,Garage,3.1,17
+94,USA,New York,Parking,N/A,N/A,N/A,N/A,12123217500,https://maps.app.goo.gl/PvBcjviEDLuxCP3KA,Garage,3.6,26
+95,India,Lucknow,Gurpreet Bakers,N/A,N/A,N/A,N/A,8808790704,https://maps.app.goo.gl/q6jTvwsWxW7TTFJeA,Cake Shop,4.6,7
+96,India,Lucknow,Essence & General Supplies,N/A,N/A,N/A,N/A,9415479060,https://maps.app.goo.gl/F8tK9hkQEG2WWPM39,Cake Shop,4,62
+97,India,Lucknow,S M Bakery,N/A,N/A,N/A,N/A,9389131446,https://maps.app.goo.gl/p5siA6LFyDgwpjqv6,Cake Shop,2.8,11
+98,India,Lucknow,IamGroot.in,N/A,N/A,N/A,N/A,8299803513,https://maps.app.goo.gl/xVgiX6PVeQwJFFMn9,Cake Shop,2.5,44
+99,India,Lucknow,New Jon Bakers,N/A,N/A,N/A,N/A,9648847747,https://maps.app.goo.gl/iUG2bzgzJi79AJVJ6,Cake Shop,4.3,15
+100,India,Lucknow,Bread Smith Bakery (Pure Veg),N/A,N/A,N/A,N/A,5224002552,https://maps.app.goo.gl/rVmMcUmL29mr7ncC8,Cake Shop,4.3,419
+101,India,Lucknow,Modern Bakery,N/A,N/A,N/A,N/A,9336383722,https://maps.app.goo.gl/K2VQw26SGWpvXiEm9,Cake Shop,4.2,550
+102,India,Lucknow,Aone Bakery,N/A,N/A,N/A,N/A,9235404869,https://maps.app.goo.gl/2jvbcXwEsGKPAHL58,Cake Shop,4.9,146
+103,India,Lucknow,Butter Story,N/A,N/A,N/A,N/A,8874474455,https://maps.app.goo.gl/CXPq8x649kh8iwZj8,Cake Shop,4,1920
+104,India,Lucknow,Cake Crumbs The home made cakes,N/A,N/A,N/A,N/A,9170026504,https://maps.app.goo.gl/XJ6owUw26tjsmy1t9,Cake Shop,5,37
+105,India,Lucknow,R S bakery,N/A,N/A,N/A,N/A,7607491101,https://maps.app.goo.gl/A8WPn23LLevEehMG8,Cake Shop,4.9,97
+106,India,Lucknow,Winni Cakes & More,N/A,N/A,N/A,N/A,8174943200,https://maps.app.goo.gl/fPsN8ACEcUQc4Bpb7,Cake Shop,4.5,104
+107,India,Lucknow,Yummy Baker's & Confectioners,N/A,N/A,N/A,N/A,8318846600,https://maps.app.goo.gl/Dbtzbys5wWtjggn97,Cake Shop,4.7,85
+108,India,Lucknow,Celebration bakery & cafe,N/A,N/A,N/A,N/A,7007786520,https://maps.app.goo.gl/H2q4Lp4jFQjuu8Nf6,Cake Shop,4.9,34
+109,USA,New York,Eddies Tailor Shop,N/A,N/A,N/A,N/A,12127220762,https://maps.app.goo.gl/1ESn5BX3ArcJ1BSSA,Tailor,4,5
+110,USA,New York,Leonalterations,N/A,N/A,N/A,N/A,13476831124,https://maps.app.goo.gl/nB7mK7qpmDxMKnwL6,Tailor,4.5,23
+111,USA,New York,Michael Tailor Shop,N/A,N/A,N/A,N/A,12123962210,https://maps.app.goo.gl/7h6bMfWzw2pGAjCCA,Tailor,3.9,7
+112,USA,New York,Pak's Tailor,N/A,N/A,N/A,N/A,12122886035,https://maps.app.goo.gl/wNCCaFrba6RjNLHf9,Tailor,4.1,15
+113,USA,New York,Ely Custom Tailors,N/A,N/A,N/A,N/A,16465245166,https://maps.app.goo.gl/EACbVy89XByJGQdRA,Tailor,4.1,30
+114,India,Lucknow,Goel General Store,N/A,N/A,N/A,N/A,5222611484,https://maps.app.goo.gl/grrXXfaY1uyCbcsy5,General Store,3.9,37
+115,India,Lucknow,Shiv Shankar General Store,N/A,N/A,N/A,N/A,9918330786,https://maps.app.goo.gl/ieFFtgXyY1A7RbTN9,General Store,4.2,31
+116,India,Lucknow,New Lucknow store,N/A,N/A,N/A,N/A,8881999204,https://maps.app.goo.gl/TAVMet4JKXqkLSEy5,General Store,4.4,28
+117,India,Lucknow,NANDI STORE,N/A,N/A,N/A,N/A,8960367600,https://maps.app.goo.gl/vkoLFjAGaCXzL6zy7,General Store,3.9,170
+118,India,Lucknow,Shariq General Store,N/A,N/A,N/A,N/A,9005680925,https://maps.app.goo.gl/SwrA5ZcB5FidQSLc8,General Store,4.1,58
+119,India,Lucknow,Sahul General Store,N/A,N/A,N/A,N/A,7524823140,https://maps.app.goo.gl/Tytywporv6e9L9qJ8,General Store,5,1
+120,India,Lucknow,Sagar General Store,N/A,N/A,N/A,N/A,8808042916,https://maps.app.goo.gl/51RHJ8f66GdxhXgs9,General Store,4.4,34
+121,India,Lucknow,Maa Santoshi D Store,N/A,N/A,N/A,N/A,9369233881,https://maps.app.goo.gl/TvqHZpg1UKcyHJyA8,General Store,4.8,140
+122,India,Lucknow,Daily Shopee,N/A,N/A,N/A,N/A,7408423070,https://maps.app.goo.gl/KDa9JrLdtwsTVVvUA,General Store,4.3,636
+123,India,Lucknow,Naman general store,N/A,N/A,N/A,N/A,8467889406,https://maps.app.goo.gl/foFGV417Wxnueri59,General Store,5,5
+124,India,Lucknow,S.General Store,N/A,N/A,N/A,N/A,9935565591,https://maps.app.goo.gl/GsQSibh1jXJxbPCw6,General Store,4.1,12
+125,India,Lucknow,Kapoor general store,N/A,N/A,N/A,N/A,9580521078,https://maps.app.goo.gl/U59zpX9GZZAB3h3j8,General Store,5,6
+126,India,Lucknow,General Store,N/A,N/A,N/A,N/A,7905648432,https://maps.app.goo.gl/R1Hie8yW7bZTTdHK8,General Store,5,2
+127,India,Lucknow,Devanshi General Store,N/A,N/A,N/A,N/A,8574230207,https://maps.app.goo.gl/pKHeNasBhVmKR33PA,General Store,5,4
+128,India,Lucknow,Jai Shri General Store,N/A,N/A,N/A,N/A,6392201178,https://maps.app.goo.gl/tUn82nLchDJ9PnCh9,General Store,5,2
+129,USA,New York,UNI 28,N/A,N/A,N/A,N/A,13476009073,https://maps.app.goo.gl/qn6M7nXQ3LdAEt497,Home Goods Store,4.6,19
+130,USA,New York,Yùnhóng Chopsticks,N/A,N/A,N/A,N/A,12122330288,https://maps.app.goo.gl/fjioowMvrDhzPpEu7,Home Goods Store,4.6,121
+131,USA,New York,Zee Smoke & Convenience inc,N/A,N/A,N/A,N/A,16468959312,https://maps.app.goo.gl/C9cdn77fWRqoD29r7,General Store,4,42
+132,USA,New York,Shopping Girlfriend NYC,N/A,N/A,N/A,N/A,19178252564,https://maps.app.goo.gl/3Z7y8Fhcr4AjuDnd8,Beauty Salon ,5,5
+133,USA,New York,Yamadaya,N/A,N/A,N/A,N/A,16466092199,https://maps.app.goo.gl/c87esYVzxAdXofpD9,Grocery Store,4.8,250
+134,India,Lucknow,VR UNISEX SALON,N/A,N/A,N/A,N/A,9721000839,https://maps.app.goo.gl/7bG729yFDy8Dquzv5,Beauty Salon ,4.9,504
+135,India,Lucknow,The London,N/A,N/A,N/A,N/A,8885762957,https://maps.app.goo.gl/LnWJe9qFZrGnZbAm7,Beauty Salon ,4.8,66
+136,India,Lucknow,Xatisfy Men Salon,N/A,N/A,N/A,N/A,9120169074,https://maps.app.goo.gl/oJ2mcdd7aV6b9UBPA,Beauty Salon ,4.9,313
+137,India,Lucknow,The Invite Unisex Salon,N/A,N/A,N/A,N/A,7860314702,https://maps.app.goo.gl/6mGD57hiS71bpX9u9,Beauty Salon ,4.9,192
+138,India,Lucknow,Super Style Salon,N/A,N/A,N/A,N/A,8707208110,https://maps.app.goo.gl/5HboY2v6uKWC16y29,Beauty Salon ,4.9,121
+139,India,Lucknow,Infinity Salon Lucknow,N/A,N/A,N/A,N/A,9140942123,https://maps.app.goo.gl/gBe6YrL7SGCF318m8,Beauty Salon ,4.5,552
+140,India,Lucknow,The client chair beauty salon,N/A,N/A,N/A,N/A,9696294296,https://maps.app.goo.gl/XgTYdaGrEx6fqsAu7,Beauty Salon ,4.9,66
+141,India,Lucknow,Get Beauty Salon,N/A,N/A,N/A,N/A,6394333919,https://maps.app.goo.gl/97BiekZKyXQzMJJi7,Beauty Salon ,4.7,81
+142,India,Lucknow,Your salon office,N/A,N/A,N/A,N/A,9140510184,https://maps.app.goo.gl/mKBQkSiMZdwSUpW86,Beauty Salon ,5,29
+143,India,Lucknow,Glow N Glam,N/A,N/A,N/A,N/A,9919736852,https://maps.app.goo.gl/hbAMYBHfA6r6Fkr46,Beauty Salon ,4.6,221
+144,India,Lucknow,Smriti Makeovers & Salon,N/A,N/A,N/A,N/A,9005379640,https://maps.app.goo.gl/Niebe8kvJMLAUbya6,Beauty Salon ,5,81
+145,India,Lucknow,Salon De Beaute,N/A,N/A,N/A,N/A,7499413643,https://maps.app.goo.gl/W18Kd3H9ZbDch8DJ9,Beauty Salon ,4.9,101
+146,India,Lucknow,Noor Men's salon,N/A,N/A,N/A,N/A,9807193717,https://maps.app.goo.gl/9ihRAdderwHhXkdUA,Beauty Salon ,4.8,216
+147,India,Lucknow,Mini Bridal Studio,N/A,N/A,N/A,N/A,6392777848,https://maps.app.goo.gl/yAJGLpJPNnbgrrih9,Beauty Salon ,4.4,16
+148,India,Lucknow,B4 party salon,N/A,N/A,N/A,N/A,9839660706,https://maps.app.goo.gl/ds9YAhWiKtyVKb689,Beauty Salon ,4.9,99
+149,USA,New York,S & N Discount Inc,N/A,N/A,N/A,N/A,12127222680,https://maps.app.goo.gl/EZMfZrvHzmT3FK1m6,General Store,4.3,114
+150,USA,New York,NYC Wine Merchants,N/A,N/A,N/A,N/A,12124144300,https://maps.app.goo.gl/CqEbtZhV8y1mQKqy7,Wine Store,3.7,38
+151,USA,New York,The Manhattan Wine Shop,N/A,N/A,N/A,N/A,12122219463,https://maps.app.goo.gl/gvheLsQEEs1UjpW18,Wine Store,4.1,160
+152,USA,New York,The Wine Shop,N/A,N/A,N/A,N/A,12126855151,https://maps.app.goo.gl/7pUYT7tWqhG7QUs86,Wine Store,4.1,45
+153,USA,New York,Chelsea Wine Cellar Inc,N/A,N/A,N/A,N/A,12126751813,https://maps.app.goo.gl/pufYMAVjBvWetAGu8,Wine Store,4.5,65
+154,India,Lucknow,Krishna general store,N/A,N/A,N/A,N/A,6393973428,https://maps.app.goo.gl/FvcNQMJSpgww2Hv7A,General Store,5,4
+155,India,Lucknow,Goel General Store,N/A,N/A,N/A,N/A,9450110621,https://maps.app.goo.gl/xBF6RpzPfLdQwkNF8,General Store,5,1
+156,India,Lucknow,Chaurasia General Store,N/A,N/A,N/A,N/A,8564888944,https://maps.app.goo.gl/pqDpSkanN4e7VC788,General Store,4,18
+157,India,Lucknow,Shivansh General Store,N/A,N/A,N/A,N/A,8565902920,https://maps.app.goo.gl/S8HFw67fa7vecWFX8,General Store,3.8,51
+158,India,Lucknow,Shree Ji General Store,N/A,N/A,N/A,N/A,9659533423,https://maps.app.goo.gl/WH6FUWkJgH31Wt3v5,General Store,5,1
+159,India,Lucknow,SIDDHARTH GENERAL STORE,N/A,N/A,N/A,N/A,8565065134,https://maps.app.goo.gl/HFJ5HuYiQwcynV218,General Store,4.9,24
+160,India,Lucknow,General Store,N/A,N/A,N/A,N/A,9415577246,https://maps.app.goo.gl/8MSaPeXj9U9Nv9z2A,General Store,4.3,15
+161,India,Lucknow,R.S General Store,N/A,N/A,N/A,N/A,9305265921,https://maps.app.goo.gl/KBGUaph3xW5YxFxL9,General Store,5,4
+162,India,Lucknow,Anand General Store (lala ji ki dukan ),N/A,N/A,N/A,N/A,9453836171,https://maps.app.goo.gl/wrzSq3AgwqTW5VXc8,General Store,4.8,5
+163,India,Lucknow,Kapoor General Store,N/A,N/A,N/A,N/A,9795518366,https://maps.app.goo.gl/efghyper893HRvwb7,General Store,5,2
+164,India,Lucknow,Ma Vaishno General Store,N/A,N/A,N/A,N/A,9198038319,https://maps.app.goo.gl/Y4WVcF48CYPsvNMP8,General Store,4.4,31
+165,India,Lucknow,R.K Kashyap General Store,N/A,N/A,N/A,N/A,9555133345,https://maps.app.goo.gl/QR4cqRFLmMY3ok516,General Store,4.4,7
+166,India,Lucknow,Milan A Speciality Restaurant,N/A,N/A,N/A,N/A,9936888000,https://maps.app.goo.gl/RqgTZN6mZo8AcgBh8,General Store,4.8,16173
+167,India,Lucknow,Wish Your Dish Multi Cuisine Restaurant,N/A,N/A,N/A,N/A,8874888805,https://maps.app.goo.gl/4V4y8rLYVxZghnY28,Restaurant,4.5,1092
+168,India,Lucknow,The House 21 | Arabian Restaurant | Chowk | Lucknow,N/A,N/A,N/A,N/A,9919990331,https://maps.app.goo.gl/1Ppd8cV3b4Fm1p1E9,Restaurant,4.3,517
+169,India,Lucknow,Mantar Restaurant - Lucknow,N/A,N/A,N/A,N/A,8400399594,https://maps.app.goo.gl/7mbsUxP3eY37PbU96,Restaurant,4.7,709
+170,USA,New York,Windsor Wine Shop,N/A,N/A,N/A,N/A,12127794422,https://maps.app.goo.gl/hryoHK2H3qz26dN98,Wine Store,4.6,66
+171,USA,New York,BARRELMORE WINE & SPIRITS,N/A,N/A,N/A,N/A,12126436789,https://maps.app.goo.gl/6t8Q4o9LR9EZcAv56,Wine Store,4,135
+172,USA,New York,Mark's Wine & Spirits Inc.,N/A,N/A,N/A,N/A,12129621993,https://maps.app.goo.gl/m4U7G5LYLi2P63wk6,Wine Store,4.1,80
+173,USA,New York,Spring Street Wine Shop,N/A,N/A,N/A,N/A,12122190521,https://maps.app.goo.gl/zXnWuSi8BLvvwbbLA,Wine Store,3.7,28
+174,USA,New York,Vintage On Second (Wine and Liquor Store),N/A,N/A,N/A,N/A,12128288839,https://maps.app.goo.gl/bBcQbMqHTxLoyGnH6,Wine Store,4.5,56
+175,India,Lucknow,Mantar Restaurant - Lucknow,N/A,N/A,N/A,N/A,8400399594,https://maps.app.goo.gl/7mbsUxP3eY37PbU96,Restaurant,4.7,709
+176,India,Lucknow,The House 21 | Arabian Restaurant in Lucknow,N/A,N/A,N/A,N/A,9919990331,https://maps.app.goo.gl/2nCBY6bBpLvegbVt5,Restaurant,4.3,517
+177,India,Lucknow,City Restaurant | Best Restaurant in Lucknow,N/A,N/A,N/A,N/A,9454363252,https://maps.app.goo.gl/ichyDJ2jqgMKHX2Z6,Restaurant,4.7,84
+178,India,Lucknow,The Mughal's Dastarkhwan,N/A,N/A,N/A,N/A,5224044777,https://maps.app.goo.gl/6Ma2ruogEqvcwHsb7,Restaurant,4.2,11214
+179,India,Lucknow,Moti Mahal Restaurant,N/A,N/A,N/A,N/A,5224048101,https://maps.app.goo.gl/NeEvbTGDCA55QnT29,Restaurant,4.2,16289
+180,India,Lucknow,The Pacific Hut - Family Restaurants in Lucknow,N/A,N/A,N/A,N/A,8318849521,https://maps.app.goo.gl/gq8Jk46RXMJR37Kt5,Restaurant,4,625
+181,India,Lucknow,Royal Sky,N/A,N/A,N/A,N/A,9839023902,https://maps.app.goo.gl/Nauro52Ep9Ksx6P48,Restaurant,4.2,6398
+182,India,Lucknow,Hons - All day Dining,N/A,N/A,N/A,N/A,9839397979,https://maps.app.goo.gl/QWTrvUPPMqTB1SMq6,Restaurant,4.4,2252
+183,India,Lucknow,Dine Out City (DOC),N/A,N/A,N/A,N/A,6392502020,https://maps.app.goo.gl/F9FsoccepN8fxVSG7,Restaurant,4.3,322
+184,India,Lucknow,The Terrace,N/A,N/A,N/A,N/A,9936438000,https://maps.app.goo.gl/AnMjBgcs5yf8a5RB9,Restaurant,4.1,9553
+185,India,Lucknow,Bagicha - By Dayal Bagh,N/A,N/A,N/A,N/A,9005770888,https://maps.app.goo.gl/CSzVstPSDNLdCmwQ6,Restaurant,4.3,1291
+186,India,Lucknow,SMALL PARTY WALE,N/A,N/A,N/A,N/A,7800780040,https://maps.app.goo.gl/QAZHK8YLJpUk5GsF6,Restaurant,4.8,10
+187,India,Lucknow,The Fresh Factory,N/A,N/A,N/A,N/A,8957331424,https://maps.app.goo.gl/tzP5a1PJ4xaizEjB9,Restaurant,4.3,1101
+188,India,Lucknow,Free Spirit,N/A,N/A,N/A,N/A,8175956711,https://maps.app.goo.gl/WAGF3raXgK14D5PK8,Restaurant,4.3,1558
+189,India,Lucknow,Best Choice Of Awadh,N/A,N/A,N/A,N/A,7235811114,https://maps.app.goo.gl/EHNcf8pSUF7o2WJY6,Restaurant,4.2,919
+190,USA,New York,New York Clothing Store,N/A,N/A,N/A,N/A,15486006980,https://maps.app.goo.gl/kibj2N54D31TJUHk6,Clothing Store ,0,0
+191,USA,New York,59 Bayard Market,N/A,N/A,N/A,N/A,12126088866,https://maps.app.goo.gl/areTEFdno8VPnn5V7,Grocery Store,4.6,17
+192,USA,New York,Chinatown Building Supply Inc,N/A,N/A,N/A,N/A,12124310099,https://maps.app.goo.gl/wDicK1asnHRc2XUy6,Building Materials Store,4.7,80
+193,USA,New York,Chelsea Wine Cellar Inc,N/A,N/A,N/A,N/A,12126751813,https://maps.app.goo.gl/KkTMDF1kW1nyHHxz5,Wine Store,4.5,65
+194,USA,New York,Hermès Meatpacking,N/A,N/A,N/A,N/A,12122571600,https://maps.app.goo.gl/Q8MgC11NoCLoAHqA9,Clothing Store ,3.5,264
+195,India,Lucknow,The Marigold- Fine Dine Restaurant,N/A,N/A,N/A,N/A,5224113801,https://maps.app.goo.gl/ktUJrggvkBAWFapg8,Restaurant,3.9,1270
+196,India,Lucknow,Royal Rangoli Restaurant,N/A,N/A,N/A,N/A,7318254638,https://maps.app.goo.gl/XbboprSC6sEMmY9z5,Restaurant,4.4,869
+197,India,Lucknow,Barkaas Indo-Arabic Restaurant,N/A,N/A,N/A,N/A,9115005777,https://maps.app.goo.gl/BpTbqEr4B6ZvmakJ8,Restaurant,4.5,5092
+198,India,Lucknow,FalakNuma Restaurant,N/A,N/A,N/A,N/A,5222620131,https://maps.app.goo.gl/mWViUJKs8Bf5pKFr9,Restaurant,4,723
+199,India,Lucknow,The Centurion,N/A,N/A,N/A,N/A,9119603535,https://maps.app.goo.gl/RLRHGDCR8E5Myrz76,Restaurant,4.1,1690
+200,India,Lucknow,Lucknow Cakes,N/A,N/A,N/A,N/A,9793115487,https://maps.app.goo.gl/yqC2wGJt7YZoQYPG7,Cake Shop,4.2,245
+201,India,Lucknow,Globe Baker's & Cafe,N/A,N/A,N/A,N/A,8318527077,https://maps.app.goo.gl/MrfAvdVwLDPzqM3t5,Cake Shop,4.4,631
+202,India,Lucknow,Good Bakery,N/A,N/A,N/A,N/A,5224072223,https://maps.app.goo.gl/FyaY9fg4MYmzZF4TA,Cake Shop,4.1,910
+203,India,Lucknow,Shama Bakery,N/A,N/A,N/A,N/A,8182875927,https://maps.app.goo.gl/mHpPAbdXaeDmFJn2A,Cake Shop,4.2,825
+204,India,Lucknow,JJ Bakers,N/A,N/A,N/A,N/A,9235555780,https://maps.app.goo.gl/APm1CMCv3BLGAWYJA,Cake Shop,4,"2,175"
+205,India,Lucknow,New Brownie Bakery & Confectionery,N/A,N/A,N/A,N/A,9559898355,https://maps.app.goo.gl/qH3XPDtRq4H8szHk8,Cake Shop,4,36
+206,India,Lucknow,Silver Spoon Bakers and Cafe (Aishbagh),N/A,N/A,N/A,N/A,5224101530,https://maps.app.goo.gl/YJKk2YKHJMg8LVjB6,Cake Shop,4.1,1148
+207,India,Lucknow,The Cherry Tree Cafe,N/A,N/A,N/A,N/A,7523868301,https://maps.app.goo.gl/UQLBrWnu4Xob1EEC8,Cake Shop,4.4,8497
+208,India,Lucknow,Good Bakery Gomtinagar,N/A,N/A,N/A,N/A,9219906262,https://maps.app.goo.gl/r4f5MGbzJ4MMfCBaA,Cake Shop,4.2,260
+209,India,Lucknow,Durham Bakery,N/A,N/A,N/A,N/A,9565553111,https://maps.app.goo.gl/F3t4iiRuPTXcUGnUA,Cake Shop,3.8,60
+210,USA,New York,Windsor Wine Shop,N/A,N/A,N/A,N/A,12127794422,https://maps.app.goo.gl/hryoHK2H3qz26dN98,Wine Store,4.6,66
+211,USA,New York,BARRELMORE WINE & SPIRITS,N/A,N/A,N/A,N/A,12126436789,https://maps.app.goo.gl/6t8Q4o9LR9EZcAv56,Wine Store,4,135
+212,USA,New York,Mark's Wine & Spirits Inc.,N/A,N/A,N/A,N/A,12129621993,https://maps.app.goo.gl/m4U7G5LYLi2P63wk6,Wine Store,4.1,80
+213,USA,New York,Spring Street Wine Shop,N/A,N/A,N/A,N/A,12122190521,https://maps.app.goo.gl/zXnWuSi8BLvvwbbLA,Wine Store,3.7,28
+214,USA,New York,Vintage On Second (Wine and Liquor Store),N/A,N/A,N/A,N/A,12128288839,https://maps.app.goo.gl/bBcQbMqHTxLoyGnH6,Wine Store,4.5,56
+215,India,Lucknow,No. 10 Bakery - Best bakery In Lucknow,N/A,N/A,N/A,N/A,9235604275,https://maps.app.goo.gl/dqv2WU6xSFGS4EJS7,Cake Shop,4.2,9
+216,India,Lucknow,NICE BAKERY,N/A,N/A,N/A,N/A,8097482510,https://maps.app.goo.gl/UNsrtNT5wggWkhJY6,Cake Shop,4.3,31
+217,India,Lucknow,Apollo Bakery Shop,N/A,N/A,N/A,N/A,9839034133,https://maps.app.goo.gl/ss93NukzhwUkbGGW6,Cake Shop,4,36
+218,India,Lucknow,Sugar High Food | Aminabad | Lucknow,N/A,N/A,N/A,N/A,8840136926,https://maps.app.goo.gl/3nGf7tMoy8p2by256,Cake Shop,4.8,22
+219,India,Lucknow,Burma Bakery,N/A,N/A,N/A,N/A,9839018384,https://maps.app.goo.gl/qCqY4imswcPLrVvK9,Cake Shop,3.8,219
+220,India,Lucknow,Sweet Luscious,N/A,N/A,N/A,N/A,5224010785,https://maps.app.goo.gl/Nbd7HTETtWZ5fr2q8,Cake Shop,3.8,151
+221,India,Lucknow,Sunny Bakery,N/A,N/A,N/A,N/A,7985938863,https://maps.app.goo.gl/29JV5JB6rjyWHyxQA,Cake Shop,4.3,36
+222,India,Lucknow,Indian cake shop and bakery,N/A,N/A,N/A,N/A,6351721810,https://maps.app.goo.gl/qsku31xL88XC1mtz6,Cake Shop,5,6
+223,India,Lucknow,Shyam bakery,N/A,N/A,N/A,N/A,9889889371,https://maps.app.goo.gl/n3YXJ1WvBEfuoJkq6,Cake Shop,4.2,39
+224,India,Lucknow,THE CAKE CORNER BAKERY,N/A,N/A,N/A,N/A,7007026220,https://maps.app.goo.gl/xUvpWVDZN6Fvc42q6,Cake Shop,5,4
+225,India,Lucknow,Bengal Bakery,N/A,N/A,N/A,N/A,9336704363,https://maps.app.goo.gl/1oW5EyqTVRY9oRnV7,Cake Shop,3.9,34
+226,India,Lucknow,New Good Bakers,N/A,N/A,N/A,N/A,7052646764,https://maps.app.goo.gl/cNrSqbLCixh9v1ow8,Cake Shop,3.7,24
+227,India,Lucknow,Ganj Bakery,N/A,N/A,N/A,N/A,9621454399,https://maps.app.goo.gl/EZ1zfkbPERP4MD9Z9,Cake Shop,5,3
+228,India,Lucknow,The Cake Haven,N/A,N/A,N/A,N/A,8545052079,https://maps.app.goo.gl/TgpFra9btuiWvDsW8,Cake Shop,5,1
+229,India,Lucknow,JL Cakers,N/A,N/A,N/A,N/A,9889646222,https://maps.app.goo.gl/sRmdtqWSxyuBhgKN9,Cake Shop,4.9,12
+230,USA,New York,Elman's Wines & Liquors,N/A,N/A,N/A,N/A,12126738362,https://maps.app.goo.gl/RZUwFGSjhCmVshGM9,Wine Store,4.3,15
+231,USA,New York,Reidy Wine & Liquor Inc,N/A,N/A,N/A,N/A,12122460187,https://maps.app.goo.gl/MTqv4uMzowXmNwEx7,Wine Store,2.9,130
+232,USA,New York,De Lauren Wines & Spirits,N/A,N/A,N/A,N/A,12122550854,https://maps.app.goo.gl/SrbYEuozp4Wvr95G6,Wine Store,4.7,91
+233,USA,New York,Santo Domingo Bakery,N/A,N/A,N/A,N/A,12125052029,https://maps.app.goo.gl/E4wqyKBhc8MceAsk7,Cake Shop,4.4,239
+234,USA,New York,Yue Lai Bakery,N/A,N/A,N/A,N/A,19172572263,https://maps.app.goo.gl/ZKFjGfXVXmGTY92m6,Cake Shop,3.9,29
+235,India,Patna,Urmila Medical Hall,N/A,N/A,N/A,N/A,8578809997,https://maps.app.goo.gl/LCzDJbrRhBBZHzrr7,Pharmacy,3.9,44
+236,India,Patna,Lifeline Medicals,N/A,N/A,N/A,N/A,9386063660,https://maps.app.goo.gl/TDUWwdEWZBwHyLCQ9,Pharmacy,4.3,7
+237,India,Patna,Nalanda Medical Hall नालंदा मेडिकल हाल,N/A,N/A,N/A,N/A,9934802080,https://maps.app.goo.gl/rtH5fN1xqASULepG7,Pharmacy,4.3,28
+238,India,Patna,Nirmal Medico,N/A,N/A,N/A,N/A,9334299958,https://maps.app.goo.gl/poKEZjsaYRqQ4Jou9,Pharmacy,5,23
+239,India,Patna,Dadiji Medical Store,N/A,N/A,N/A,N/A,9304289891,https://maps.app.goo.gl/ypcLrYhsppvcW9VH6,Pharmacy,3.9,21
+240,India,Patna,MAA TARA MEDICAL HALL,N/A,N/A,N/A,N/A,8084540455,https://maps.app.goo.gl/8dcHQ3USzeQQqv6C8,Pharmacy,4.5,21
+241,India,Patna,Sona Medical,N/A,N/A,N/A,N/A,8102224151,https://maps.app.goo.gl/3X2AT9GaaPfLUsZw7,Pharmacy,4.3,18
+242,India,Patna,Riya Medical Hall,N/A,N/A,N/A,N/A,9939250484,https://maps.app.goo.gl/zVBeL5pWbrGfxkSa7,Pharmacy,4.8,9
+243,India,Patna,Nalanda Medicals,N/A,N/A,N/A,N/A,9835286712,https://maps.app.goo.gl/DrdRS2hry5sbyrsy8,Pharmacy,4.6,5
+244,India,Patna,Sona Medicals,N/A,N/A,N/A,N/A,6122281025,https://maps.app.goo.gl/QoJgDcTdngCAH9A16,Pharmacy,4,11
+245,India,Patna,Alok medicals hall,N/A,N/A,N/A,N/A,9608245629,https://maps.app.goo.gl/bU1PPanwjSNDoqwq9,Pharmacy,4,6
+246,India,Patna,Anuradha Medicals,N/A,N/A,N/A,N/A,9113305192,https://maps.app.goo.gl/kR7jtLxuL4oiDaxE8,Pharmacy,4.7,3
+247,India,Patna,JALPAN MEDICAL HALL,N/A,N/A,N/A,N/A,7004996603,https://maps.app.goo.gl/j2nTiNoD48Te77oXA,Pharmacy,3.8,56
+248,India,Patna,Paras Medical Hall,N/A,N/A,N/A,N/A,9386803691,https://maps.app.goo.gl/sbneKqdwRbKKwSc99,Pharmacy,4,8
+249,India,Patna,Ujala Medical,N/A,N/A,N/A,N/A,9801835490,https://maps.app.goo.gl/McwUurVvyMkMqJgL9,Pharmacy,3.9,18
+250,USA,New York,Elegant Express Tailor,N/A,N/A,N/A,N/A,12126747341,https://maps.app.goo.gl/1eFKWkjmXtqrAse57,Tailor,4.1,172
+251,USA,New York,Cardelino NYC Tailoring,N/A,N/A,N/A,N/A,12124774654,https://maps.app.goo.gl/y3j7Bu67HpoTF5yG7,Tailor,4.9,25
+252,USA,New York,P J D Custom Tailoring & Alterations,N/A,N/A,N/A,N/A,19179383985,https://maps.app.goo.gl/xb2DNxeZDDDfmHRS8,Tailor,4.5,51
+253,USA,New York,D'Alex Tailor Shop,N/A,N/A,N/A,N/A,12122283986,https://maps.app.goo.gl/6jq5A8nWATbQfZHx9,Tailor,4.6,33
+254,USA,New York,Sastreria Garcia,N/A,N/A,N/A,N/A,16462718905,https://maps.app.goo.gl/VK8bYpz6nyTyLMGN9,Tailor,4.5,71
+255,India,Patna,Medisinen Medical Shop,N/A,N/A,N/A,N/A,9304398435,https://maps.app.goo.gl/bVa56rn7MDvG4Vdy9,Pharmacy,5,138
+256,India,Patna,Drug O2 | Medical Store | Online Medicine Order Patna,N/A,N/A,N/A,N/A,7768030303,https://maps.app.goo.gl/UNNj8RU9cJnWzKFf9,Pharmacy,4.8,236
+257,India,Patna,Radha Medicals,N/A,N/A,N/A,N/A,9334083440,https://maps.app.goo.gl/8mhNHs1X5XToWmZK9,Pharmacy,4.5,27
+258,India,Patna,SAGUN MEDICAL,N/A,N/A,N/A,N/A,9117177771,https://maps.app.goo.gl/pJEgvitVF6LfkWQ99,Pharmacy,4.7,161
+259,India,Patna,Healthcare Medicines - Home delivery available,N/A,N/A,N/A,N/A,8092210210,https://maps.app.goo.gl/R8n6KZiDRfFLE3Pw6,Pharmacy,4.9,59
+260,India,Patna,Geetanjali Medical,N/A,N/A,N/A,N/A,9430270997,https://maps.app.goo.gl/EYP6XF4H1wmHNwtq7,Pharmacy,3.6,54
+261,India,Patna,New GetWell Medical,N/A,N/A,N/A,N/A,9931714161,https://maps.app.goo.gl/5dh9pFhJSZCrfcsU7,Pharmacy,4,26
+262,India,Patna,New Krishna Medical Hall,N/A,N/A,N/A,N/A,8434744899,https://maps.app.goo.gl/hRLgL4vzpT48YYh9A,Pharmacy,4.8,23
+263,India,Patna,Kamal Medical Hall,N/A,N/A,N/A,N/A,8252220418,https://maps.app.goo.gl/6qwJ2jqBntNpsxCq9,Pharmacy,4.7,92
+264,India,Patna,Aditya Medicals,N/A,N/A,N/A,N/A,9771407251,https://maps.app.goo.gl/54K4dsA5JBvnXX6e6,Pharmacy,4.7,12
+265,India,Patna,Shobha Medicals,N/A,N/A,N/A,N/A,8340499972,https://maps.app.goo.gl/RpbNPNnLj1sZSpBUA,Pharmacy,4.2,36
+266,India,Patna,Anubha Medical Hall,N/A,N/A,N/A,N/A,9431493121,https://maps.app.goo.gl/xkQq5Pux4Rx1uT4c6,Pharmacy,4.3,16
+267,India,Patna,AUSHDHAM MEDICAL STORE,N/A,N/A,N/A,N/A,6201374184,https://maps.app.goo.gl/FYcifXwevE523wg79,Pharmacy,4.7,14
+268,India,Patna,"Sri Vishnu Medical Hall, Patna",N/A,N/A,N/A,N/A,7992310993,https://maps.app.goo.gl/AGJDKxTCij2YVBHr7,Pharmacy,4.8,4
+269,India,Patna,New Chopra Medical,N/A,N/A,N/A,N/A,9693204765,https://maps.app.goo.gl/2U63iubCrh786xiK9,Pharmacy,3.8,63
+270,USA,New York,Expert Tailoring,N/A,N/A,N/A,N/A,12122541151,https://maps.app.goo.gl/QYE7UDQKzT5a1qXr7,Tailor,4.5,82
+271,USA,New York,Alteration Concept,N/A,N/A,N/A,N/A,12128976543,https://maps.app.goo.gl/px7TFBKq2xdRpagU9,Tailor,4.6,58
+272,USA,New York,BLUE 35 TAILOR & CLEANERS,N/A,N/A,N/A,N/A,12127361167,https://maps.app.goo.gl/E6qg3MmRHLnd9SV18,Tailor,4.6,85
+273,USA,New York,Larry Custom Tailors and Alterations,N/A,N/A,N/A,N/A,12129673493,https://maps.app.goo.gl/H4wNZ2sCC3Fn45AP9,Tailor,5,10
+274,USA,New York,Adelso Clasico Tailor,N/A,N/A,N/A,N/A,13477931429,https://maps.app.goo.gl/76gEjcmfzPM1n1Pz9,Tailor,4.7,69
+275,India,Patna,Gayatri Medical Hall,N/A,N/A,N/A,N/A,9693837617,https://maps.app.goo.gl/XVmfK8y66mdWsi8r7,Pharmacy,4.3,6
+276,India,Patna,Mahaveer Medicals,N/A,N/A,N/A,N/A,9608266633,https://maps.app.goo.gl/VzCMTa1xKq4N8WMn9,Pharmacy,4.2,10
+277,India,Patna,Divya Medico,N/A,N/A,N/A,N/A,9905050226,https://maps.app.goo.gl/vuqJy2yhxozMn8hr8,Pharmacy,2.3,3
+278,India,Patna,PRABHAT MEDICAL HALL,N/A,N/A,N/A,N/A,8873759590,https://maps.app.goo.gl/YUBhW55pHToaxg826,Pharmacy,3.9,19
+279,India,Patna,Tara Medical Hall,N/A,N/A,N/A,N/A,7541811717,https://maps.app.goo.gl/i6zCfe4riLm4ZFmN8,Pharmacy,5,2
+280,India,Patna,Unani medical patna,N/A,N/A,N/A,N/A,7903638039,https://maps.app.goo.gl/DX8wk2FGCwqqVwWJ6,Pharmacy,4.8,5
+281,India,Patna,DEV MEDICAL & Path Lab center,N/A,N/A,N/A,N/A,7209642334,https://maps.app.goo.gl/avSoLBL7ZoiikyGr5,Pharmacy,4.9,24
+282,India,Patna,Pacific Surgicals And Pharmacy,N/A,N/A,N/A,N/A,6203186077,https://maps.app.goo.gl/HbavHWZzPp2iiKpaA,Pharmacy,4.6,25
+283,India,Patna,Medical Store,N/A,N/A,N/A,N/A,7544824817,https://maps.app.goo.gl/XZzySez27gdwPd6o9,Pharmacy,2.3,4
+284,India,Patna,Dawai Medical Hall,N/A,N/A,N/A,N/A,9534438460,https://maps.app.goo.gl/bdRASB34szttVtTNA,Pharmacy,4.6,16
+285,India,Patna,Sulekha Medical Hall,N/A,N/A,N/A,N/A,9386773875,https://maps.app.goo.gl/sShNStGhCEYayiKs6,Pharmacy,4,3
+286,India,Patna,Mahaveer Medical,N/A,N/A,N/A,N/A,7488074261,https://maps.app.goo.gl/Jo1DDFc4FsY4mn82A,Pharmacy,0,0
+287,India,Patna,Jain Medical Agency,N/A,N/A,N/A,N/A,6122300915,https://maps.app.goo.gl/U6GjyB97wYVMLNT38,Pharmacy,5,2
+288,USA,New York,Tailor New York,N/A,N/A,N/A,N/A,12128401871,https://maps.app.goo.gl/fJt1FVvSNYZ3PUz18,Tailor,4.4,69
+289,USA,New York,Bosco & Barraza Tailors,N/A,N/A,N/A,N/A,12127533990,https://maps.app.goo.gl/HLtkVGGYiST4nj5V8,Tailor,4.2,14
+290,USA,New York,Woodside Tailor Shop,N/A,N/A,N/A,N/A,17183923382,https://maps.app.goo.gl/Lhr7GNA1W6tSA2iS6,Tailor,3.9,18
+291,USA,New York,LNC Tailor & Bespoke Shop est 1981,N/A,N/A,N/A,N/A,12124069527,https://maps.app.goo.gl/DVq9KBV5KKXCJGjT9,Tailor,4.9,436
+292,USA,New York,Expert Tailoring,N/A,N/A,N/A,N/A,12122541151,https://maps.app.goo.gl/h8MahW6yii6aTBjQ9,Tailor,4.5,82
+293,India,Patna,Mobile medical,N/A,N/A,N/A,N/A,8540999641,https://maps.app.goo.gl/RWyvkQ91hoHLPvZw9,Pharmacy,4.9,374
+294,India,Patna,Sri Maa Medical,N/A,N/A,N/A,N/A,8617433071,https://maps.app.goo.gl/91WGK16EK8MmVYxG8,Pharmacy,5,1
+295,India,Patna,Paras Medical Hall,N/A,N/A,N/A,N/A,8210184659,https://maps.app.goo.gl/HLTBEoMhCUiXNdsA9,Pharmacy,0,0
+296,India,Patna,Das Medical Hall,N/A,N/A,N/A,N/A,8789822353,https://maps.app.goo.gl/bjZegjkSwRA84cA4A,Pharmacy,5,2
+297,India,Patna,Ayush Medical,N/A,N/A,N/A,N/A,9386999603,https://maps.app.goo.gl/DkL3kFFn3PD3UkxG6,Pharmacy,5,2
